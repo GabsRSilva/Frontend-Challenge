@@ -1,5 +1,8 @@
 # locadora
-
+```
+Esse projeto utiliza Vue3 e tailwind.
+Escrito em typescript.
+```
 ## Project setup
 ```
 npm install
